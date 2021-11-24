@@ -1,0 +1,32 @@
+.Header {
+    height: 70px;
+    width: 60%;
+    background-color: rgba(18, 98, 255);
+    margin: auto;
+    margin-top: 20px;
+}
+
+.info:nth-child(1) {
+    width: 15% !important;
+}
+
+.info:nth-child(3) {
+    width: 42.5% !important;
+}
+
+.info:nth-child(3) {
+    width: 42.5% !important;
+}
+
+.info {
+    color: white;
+    float: left;
+    height: 100%;
+    width: 26%;
+    vertical-align: middle;
+    display: flex;
+    align-items: center;
+    padding-left: 15px;
+    font-size: 1.2rem;
+    font-family: "Nunito";
+}
